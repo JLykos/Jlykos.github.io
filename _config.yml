@@ -26,6 +26,14 @@ author_website_url: 'http://jlykos.github.io/plantilla-cv'
 author_website_url_text: CV
 typewrite-text: No conocemos una millonésima parte del uno por ciento de nada.
 home_slider:
+  - logo: desarrollador_de_videojuegos.pngg
+    title: Desarrollador de videojuegos
+    url: /assets/img/certificados/desarrollador_de_videojuegos.png
+    visibility: true
+  - logo: tecnico_en_mineria_de_datos.png
+    title: Tecnico en mineria de datos
+    url: /assets/img/certificados/tecnico_en_mineria_de_datos.png
+    visibility: true
   - logo: Introduccion-al-desarrollo-web-II.png
     title: Introduccion al desarrollo web II
     url: /assets/img/certificados/Introduccion-al-desarrollo-web-II.png
@@ -61,14 +69,6 @@ home_slider:
   - logo: introduccion-a-iot.png
     title: Introduccion a IoT
     url: /assets/img/certificados/introduccion-a-iot.png
-    visibility: true
-  - logo: diseñador-de-circuitos-impresos.png
-    title: Diseñador de circuitos impresos
-    url: /assets/img/certificados/diseñador-de-circuitos-impresos.png
-    visibility: true
-  - logo: programador-de-microordenadores.png
-    title: Programador de microordenadores
-    url: /assets/img/certificados/programador-de-microordenadores.png
     visibility: true
 author_work_experiences:
   - company_name: Autonomo
